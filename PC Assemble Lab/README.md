@@ -1,4 +1,4 @@
-#Lab: PC Assembly Lab
+# Lab: PC Assembly Lab
 
 On 12th November 2025, a day which brought me and my team an opportunity to learn how to un-assemble and reassemble a personal computer. Before that, I never had a chance to observe a computer from within and, more so, to lay my hands on a computer. I thought that opening a computer was a difficult and risky process, but everything was different after this experience. The process of observing various components combining together to make a computer functional was quite interesting.
 
