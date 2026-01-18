@@ -20,7 +20,7 @@ Besides the talks, we visited booths hosted by various companies and departments
 We also had the opportunity to interview staff members, who shared their experiences and advice about working in the digital industry. Overall, the UTM Digital Open Day was a meaningful
 and inspiring experience that increased my interest in the digital field.
 
-https://drive.google.com/file/d/1jB_wP4dF86jxFRfURHZFsfPHuuXUWTBJ/view?usp=sharing
+VIDEO: https://drive.google.com/file/d/1jB_wP4dF86jxFRfURHZFsfPHuuXUWTBJ/view?usp=sharing
 
 ![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/aca9d73f2fd036e555ebc7958d6a47a6a00b452a/pic%20utm%20digital%204.jpg)<br>
 
