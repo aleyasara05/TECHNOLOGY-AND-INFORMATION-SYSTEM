@@ -22,7 +22,7 @@ and inspiring experience that increased my interest in the digital field.
 
 VIDEO: https://drive.google.com/file/d/1jB_wP4dF86jxFRfURHZFsfPHuuXUWTBJ/view?usp=sharing
 
-![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/aca9d73f2fd036e555ebc7958d6a47a6a00b452a/pic%20utm%20digital%204.jpg)<br>
+![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/fe15661e503e77bbdd2f014917fa706ba12db7f5/Assignment%201%20(UTMDigital%20Vlog)/pic%20utm%20digital%204.jpg)<br>
 
 ![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/aca9d73f2fd036e555ebc7958d6a47a6a00b452a/pic%20utm%20digital%201.jpg)<br>
 
