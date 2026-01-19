@@ -26,7 +26,7 @@ Looking ahead, I aim to apply what I learned throughout my process of developing
 For our future project, we can present our ideas in class since it allows us to build confidence and become comfortable when speaking in front of audiences.
 
 ## Link For Report
-https://drive.google.com/file/d/1LQ-dB4iEe1zudl1Y1kavHDHWN896EqJh/view?usp=sharing
+https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/3299d4a52a250fdc6ea209cf30ae7775b315899b/Project%20Design%20Thinking/Design%20Thinking%20Project%20Report.pdf
 
 ## Link For Video Presentation
 https://drive.google.com/file/d/1Lfy_HThxuHN1iw0bUhd4QgeC6hk0xQsg/view?usp=sharing
