@@ -8,6 +8,6 @@ The session was led by experienced professionals from PPG, including Ooi Ai Ling
 
 Overall, this industrial talk was very meaningful as it helped bridge the gap between what I learn academically and how it is applied in the industry. It also motivated me to further improve my technical and professional skills in preparation for future career opportunities.
 
-![image alt](https://github.com/aleyasara05/iNDUSTRY-TALK-1---PGG/blob/3a5776ce80416c4be7718e34ece53e3a96bbad3d/photo_2026-01-05_10-07-56.jpg)<br>
+![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/c6de9c802c219b74cd3d8663b70ca5f7f41b651e/Assignment%202%20(Industry%20Talk)/industry%20talk%201%20pic.jpg)<br>
 
 ![image alt](https://github.com/aleyasara05/iNDUSTRY-TALK-1---PPG/blob/2f11c930b15b1c09b85f43b05a6baa5a05b08f5f/assignment%202%20tis.jpg)<br>
