@@ -25,6 +25,8 @@ Looking ahead, I aim to apply what I learned throughout my process of developing
 ## Suggestion For Improvement
 For our future project, we can present our ideas in class since it allows us to build confidence and become comfortable when speaking in front of audiences.
 
-REPORT: https://drive.google.com/file/d/1LQ-dB4iEe1zudl1Y1kavHDHWN896EqJh/view?usp=sharing
+## Link For Report
+https://drive.google.com/file/d/1LQ-dB4iEe1zudl1Y1kavHDHWN896EqJh/view?usp=sharing
 
-VIDEO PRESENTATION: https://drive.google.com/file/d/1Lfy_HThxuHN1iw0bUhd4QgeC6hk0xQsg/view?usp=sharing
+## Link For Video Presentation
+https://drive.google.com/file/d/1Lfy_HThxuHN1iw0bUhd4QgeC6hk0xQsg/view?usp=sharing
