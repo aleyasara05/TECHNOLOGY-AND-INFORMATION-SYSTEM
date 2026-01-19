@@ -14,6 +14,7 @@ depending on requirements and constraints.
 Overall, the talk was engaging and informative. It provided valuable insights into the industry and helped me connect what I have learned in my studies with real-world practices. 
 I am grateful for the opportunity to attend this session, as it increased my awareness of the skills needed to succeed in the technology field.
 
-REPORT: https://drive.google.com/file/d/1OYCzwwpKOO_LcTCNvvdunXx7FXLrEbfR/view?usp=sharing
+## Report
+https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/54a729057e4210e478f0d79f91a8e7cc5158b138/Assignment%203%20(Industry%20Talk%202)/Assignment%203%20(Industry%20Talk%202).pdf
 
 ![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/299b0dffeb129111573b26524bb8bcac2445c138/Assignment%203%20(Industry%20Talk%202)/industry%20talk%202%20pic.jpg)<br>
