@@ -10,4 +10,4 @@ Overall, this industrial talk was very meaningful as it helped bridge the gap be
 
 ![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/c6de9c802c219b74cd3d8663b70ca5f7f41b651e/Assignment%202%20(Industry%20Talk)/industry%20talk%201%20pic.jpg)<br>
 
-![image alt](https://github.com/aleyasara05/iNDUSTRY-TALK-1---PPG/blob/2f11c930b15b1c09b85f43b05a6baa5a05b08f5f/assignment%202%20tis.jpg)<br>
+![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/71a40033decb630e5de16f2caffbf72a597077c3/Assignment%202%20(Industry%20Talk)/assignment%202%20(poster).jpg)<br>
